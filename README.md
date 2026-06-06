@@ -1,33 +1,38 @@
-# The Conscious Mind
+# Consciousness
 
-A study repository for building a deep understanding of David J. Chalmers' book:
-**[The Conscious Mind: In Search of a Fundamental Theory](https://www.amazon.co.jp/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891)**
+A collaborative knowledge base for understanding consciousness across all disciplines — philosophy, neuroscience, cognitive science, physics, AI, and beyond.
 
 ## Purpose
 
-This repo serves as a collaborative knowledge base where we:
+This repo maps the entire landscape of consciousness studies. We:
 
-- **Define and explain key terms** — document important concepts, vocabulary, and philosophical terms as encountered in the book
-- **Discuss ideas** — record analysis, interpretations, and debates around the book's arguments
-- **Construct a clear model** — synthesize explanations into a coherent, structured understanding of consciousness as Chalmers presents it
+- **Define and explain key terms** — concepts, vocabulary, and frameworks drawn from any field or thinker relevant to consciousness
+- **Discuss ideas** — record questions, arguments, and debates from our discussions
+- **Clarify relationships** — trace how theories, thinkers, and -isms connect, conflict, and build on each other
 
-## About the Book
+## Scope
 
-*The Conscious Mind* (1996) by David J. Chalmers is a foundational work in the philosophy of mind. Chalmers introduces the **"hard problem of consciousness"** — the challenge of explaining why and how physical processes in the brain give rise to subjective experience — and argues that consciousness cannot be fully reduced to physical phenomena.
+No single book, school, or discipline owns this space. Content may draw from:
+
+| Domain | Examples |
+|---|---|
+| **Philosophy of Mind** | Chalmers, Dennett, Nagel, Searle, Strawson |
+| **Neuroscience** | Integrated Information Theory (Tononi), Global Workspace Theory (Baars, Dehaene) |
+| **Cognitive Science** | Higher-order theories, predictive processing (Friston, Clark) |
+| **Physics** | Penrose–Hameroff orchestrated objective reduction |
+| **Eastern Philosophy** | Buddhist concepts of mind, Advaita Vedanta |
+| **AI & Computation** | Machine consciousness, functionalism, the Chinese Room |
+| **-isms** | Physicalism, dualism, panpsychism, illusionism, idealism, eliminativism, emergentism |
 
 ## Structure
 
-As we progress through the book, content will be organized by topic or chapter, covering concepts such as:
-
-- The hard problem vs. the easy problems of consciousness
-- Phenomenal consciousness and qualia
-- Supervenience and physicalism
-- Dualism and property dualism
-- The zombie argument
-- Functional states and intentionality
+```
+terminology/   # Concept explanations — one file per term
+discussion/    # Questions and arguments raised in our discussions
+```
 
 ## How to Contribute
 
-1. Add explanations of new terms or concepts as Markdown files
-2. Use discussion threads (issues) to debate interpretations
-3. Update the model as understanding evolves
+1. Add explanations of terms or concepts as Markdown files under `terminology/`
+2. Add discussion files under `discussion/` based on actual questions or arguments raised
+3. Use issues to debate interpretations or propose new topics

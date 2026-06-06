@@ -38,7 +38,7 @@ René Descartes (17th century) argued there are two distinct substances:
 
 ---
 
-## Dualism in *The Conscious Mind*
+## Chalmers' Naturalistic Dualism
 
 Chalmers adopts **property dualism** — the brain is physical, but **conscious experience** is an additional, irreducible property that physics alone cannot capture.
 
