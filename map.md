@@ -63,10 +63,18 @@ classDiagram
         class Penrose {
             Orch-OR
             Quantum Mind
+            Mathematical Platonism
         }
         class Hameroff {
             Orch-OR
             Microtubule Hypothesis
+        }
+    }
+
+    namespace PhilosophyOfMathematics {
+        class Einstein_Math {
+            Geometry and Experience
+            Axiomatics / Formalism
         }
     }
 
@@ -76,6 +84,8 @@ classDiagram
     %% Collaborations
     Koch --> Tononi : collaborates on IIT
     Penrose --> Hameroff : collaborates on Orch-OR
+    Einstein_Math --> Penrose : contrasts (formalism vs Platonism)
+    Penrose --> Tononi : both raise math-structure-of-consciousness
     Clark --> Friston : collaborates on predictive processing
 
     %% Extensions / Builds on
