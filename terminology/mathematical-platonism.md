@@ -35,7 +35,7 @@ On this view (following modern axiomatics), mathematical axioms are **free creat
 ## The Tension
 
 ```
-Penrose (Platonism)                Einstein (Formalism / Axiomatics)
+Penrose (Platonism)                Einstein (Conventionalism / Axiomatics)
 ───────────────────────────────    ─────────────────────────────────────
 Math structures are real           Math is a formal game
 Axioms reflect eternal truths      Axioms are free human creations
@@ -91,5 +91,5 @@ If Einstein is right, any precise mathematical theory of consciousness (IIT, Orc
 | Position | Mathematics is... | Consciousness implication |
 |---|---|---|
 | **Penrose (Platonism)** | Eternally real, discovered | Consciousness accesses Platonic truth; cannot be algorithmic |
-| **Einstein (Formalism)** | Free human creation, invented | Mathematical models of mind are tools, not revelations |
+| **Einstein (Conventionalism)** | Free human creation, invented; choice of which math fits reality is empirical | Mathematical models of mind are tools, not revelations |
 | **IIT (implicit)** | Structurally real (Φ is discovered) | Consciousness *is* a mathematical structure |

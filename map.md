@@ -74,7 +74,7 @@ classDiagram
     namespace PhilosophyOfMathematics {
         class Einstein_Math {
             Geometry and Experience
-            Axiomatics / Formalism
+            Conventionalism / Empiricism
         }
     }
 
