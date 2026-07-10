@@ -22,27 +22,36 @@ When Cardano introduced complex numbers in 1539, he had no idea they would event
 
 ---
 
-## Einstein's Contrasting View
+## Einstein's Distinction: Pure and Practical Geometry
 
-Einstein (*Geometry and Experience*, 1921) argues from the opposite direction: mathematics is certain *precisely because* it says nothing about reality.
+Einstein (*Geometry and Experience*, 1921) is often placed on the opposite side, but his argument is more precise than the slogan “mathematics is invented.”
 
 > "As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality."
 
-On this view (following modern axiomatics), mathematical axioms are **free creations of the human mind** — not pre-existing truths. Geometry is a formal game with no content until we add a physical interpretation. The moment we apply it to reality, certainty gives way.
+He separates two activities:
+
+| | What it contains | How it is assessed |
+|---|---|---|
+| **Pure axiomatic geometry (G)** | Undefined terms and axioms, treated as formal “implicit definitions” | Logical validity and consistency |
+| **Practical geometry** | Geometry plus coordinating physical assumptions (P), such as how rods, clocks, or light correspond to geometrical objects | Experience |
+
+Axioms are **free creations of the human mind** in their purely formal role. Formal geometry alone says nothing about perceptual objects. When geometry is coordinated with measuring bodies and physical laws, however, it becomes part of natural science and its fit with reality is an empirical question.
+
+Einstein summarizes the relation as **G + P**: neither geometry nor the coordinating physical laws are tested alone; the combined system confronts experience. This is close to Poincaré's conventionalism, although Einstein still treats the geometry of actual spacetime as a meaningful physical question at the working level of physics.
 
 ---
 
 ## The Tension
 
 ```
-Penrose (Platonism)                Einstein (Conventionalism / Axiomatics)
+Penrose (Platonism)                Einstein (Axiomatics + Coordination)
 ───────────────────────────────    ─────────────────────────────────────
-Math structures are real           Math is a formal game
+Math structures are real           Pure geometry is a formal system
 Axioms reflect eternal truths      Axioms are free human creations
-Math is discovered                 Math is invented
-Certainty ← structures are real   Certainty ← disconnected from reality
-Mystery: why does it describe the  Mystery dissolved: we choose the math
-world?                             that fits, and revise when it fails
+Math is discovered                 G + P gains empirical content
+Certainty ← structures are real   Certainty applies to formal inference
+Mystery: why does it describe the  The combined system, not geometry
+world?                             alone, is tested by experience
 ```
 
 Both are responses to the same puzzle: **why is mathematics so unreasonably effective at describing physical reality?** Penrose deepens the mystery; Einstein dissolves it.
@@ -82,7 +91,9 @@ If Platonism is true, then consciousness might itself be a Platonic entity — s
 
 ### Einstein's Challenge to Mathematical Theories of Consciousness
 
-If Einstein is right, any precise mathematical theory of consciousness (IIT, Orch-OR) faces a hard trade-off: the more formally rigorous it becomes, the more it risks becoming a formal game disconnected from the actual phenomenon it is trying to explain.
+Einstein's distinction implies that a formal theory of consciousness does not acquire empirical content merely by being precise. It also needs **coordinating assumptions** connecting its symbols to observations, reports, interventions, and experiences. For IIT, the formalism for Φ is analogous to G; the claim that a physical system's Φ corresponds to the presence or character of experience belongs to P. What evidence tests is the package.
+
+This does not show that formalization must lose the phenomenon. It shows that formal proof and empirical confirmation answer different questions.
 
 ---
 
@@ -91,5 +102,10 @@ If Einstein is right, any precise mathematical theory of consciousness (IIT, Orc
 | Position | Mathematics is... | Consciousness implication |
 |---|---|---|
 | **Penrose (Platonism)** | Eternally real, discovered | Consciousness accesses Platonic truth; cannot be algorithmic |
-| **Einstein (Conventionalism)** | Free human creation, invented; choice of which math fits reality is empirical | Mathematical models of mind are tools, not revelations |
+| **Einstein (axiomatics/practical geometry)** | Pure axioms are freely created; an interpreted mathematical-physical system is empirical | A formal model needs explicit bridge principles to observations and experience |
 | **IIT (implicit)** | Structurally real (Φ is discovered) | Consciousness *is* a mathematical structure |
+
+## Sources
+
+- Albert Einstein, [“Geometry and Experience”](https://mathshistory.st-andrews.ac.uk/Extras/Einstein_geometry/) (1921 address; English translation published 1922)
+- Richard Hammack, [*Book of Proof*, 3rd ed.](https://richardhammack.github.io/BookOfProof/Main.pdf), especially Chapters 2, 4, 7, and 9 for the logical distinctions used here
