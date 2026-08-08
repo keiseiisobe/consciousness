@@ -31,6 +31,8 @@ terminology/   # Concept explanations — one file per term
 discussion/    # Questions and arguments raised in our discussions
 ```
 
+Mathematical and formal claims should distinguish what is proved inside a model from the bridge principles that connect the model to physical systems or experience. See [Mathematical Proof](terminology/mathematical-proof.md).
+
 ## How to Contribute
 
 1. Add explanations of terms or concepts as Markdown files under `terminology/`
