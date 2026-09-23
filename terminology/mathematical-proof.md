@@ -70,4 +70,5 @@ When a consciousness argument uses mathematics, ask:
 ## Related
 
 - [Mathematical Platonism](mathematical-platonism.md)
+- [Determinism and Computability](determinism-and-computability.md)
 - [Is mathematics discovery or invention?](../discussion/is-mathematics-discovery-or-invention.md)
